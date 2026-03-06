@@ -1,1 +1,1 @@
-<script>alert("Cross domain script inclusion")</script >
+alert("Cross domain script inclusion")
