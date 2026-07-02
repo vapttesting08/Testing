@@ -1,1 +1,6 @@
-alert("cross domain script inclusion");
+<!doctype html>
+<html>
+<body>
+  <script>alert(0)</script>
+</body>
+</html>
