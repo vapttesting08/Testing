@@ -1,5 +1,1 @@
-<html>
-<body>
-  <script>alert(0)</script>
-</body>
-</html>
+<script src="https://accounts.google.com/o/oauth2/revoke?callback=alert(1337)"></script>
